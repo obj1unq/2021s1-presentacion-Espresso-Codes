@@ -8,6 +8,7 @@
 - Toco el bajo
 - Tengo 2 gatitos
 - **Enemigo natural de la menta granizada**
+- Adicto al cafe
 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
